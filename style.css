@@ -1,0 +1,45 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background: #9D3434;
+  color: #E8463A;
+  padding: 25px;
+  font-family: sans-serif;
+  text-align: center;
+  background-image: url("white moth copy.png");
+  background-color: #cccccc;
+}
+
+
+.image {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
+
+
+a:link {
+  color: #E8463A;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #E8463A;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ffffff;
+}
+
+.elements {
+  text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
